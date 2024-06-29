@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @shobhit-joshi-8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Front End Web Developer
 
-<!---
-shobhit-joshi-8/shobhit-joshi-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Pursuing Computer Science engineering with hands-on experience. working with: React js. Organized and dependable candidate successfull at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+
+✉️ You can contact me at solankipurvi021@gmail.com
+
+🧠 I keep learning new technologies
+
+🤝 I'm open to collaborating on Website Development
