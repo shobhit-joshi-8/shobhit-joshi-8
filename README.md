@@ -12,19 +12,29 @@
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Profile views hidden for now
   <img src="https://komarev.com/ghpvc/?username=shobhit-joshi-8&label=Profile%20Views&color=3EC156&style=flat-square" alt="Profile Views" />
-  -->
 </p>
-
----
 
 ## 👨‍💻 About Me
 
-Full Stack Developer building responsive web applications with React.js, Next.js, TypeScript, Node.js, and Express.js. AWS Certified, passionate about clean code, performance optimization, and building useful products.
+```javascript
+const shobhit = {
+  role: "Full Stack Developer",
+  stack: ["JavaScript", "TypeScript", "React.js", "Next.js", "Node.js", "Express.js", "MongoDB"],
+  currentlyLearning: ["DSA", "System Design", "Cloud & DevOps"],
+  askMeAbout: ["Web Development", "Tech", "Music"],
+  funFact: "I write code and play piano 🎹",
+};
+```
 
-- 💻 Building full-stack applications
-- ☁️ AWS Certified Solutions Architect – Associate
+A developer who enjoys turning ideas into clean, functional web apps — and finding the right notes on the piano when away from the keyboard. 🎹
+
+- 🔭 Building full-stack applications with the **MERN Stack**
+- 🧠 Sharpening **Data Structures & Algorithms**
+- ☁️ Exploring **AWS, Cloud & DevOps**
+- 🎹 Playing piano and exploring my passion for music
+- 🌐 All my work lives on my [**GitHub Profile**](https://github.com/shobhit-joshi-8)
+- 📫 Connect with me on [**LinkedIn**](YOUR_LINKEDIN_URL)
 
 ---
 
@@ -78,6 +88,8 @@ Full Stack Developer building responsive web applications with React.js, Next.js
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=css3&logoColor=white)
 ![Microfrontends](https://img.shields.io/badge/Microfrontends-0052CC?style=for-the-badge&logo=webpack&logoColor=white)
 
+
+<!--
 ---
 
 ## 🚀 Featured Projects
@@ -103,6 +115,8 @@ Full Stack Developer building responsive web applications with React.js, Next.js
 
 ---
 
+-->
+
 ## 🏆 Certifications
 
 - AWS Certified Solutions Architect – Associate
@@ -117,11 +131,9 @@ Full Stack Developer building responsive web applications with React.js, Next.js
   <img src="https://github-readme-stats.vercel.app/api?username=shobhit-joshi-8&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<!-- Activity graph hidden for now
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 </p>
--->
 
 ---
 
