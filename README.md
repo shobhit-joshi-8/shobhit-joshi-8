@@ -135,6 +135,16 @@ A developer who enjoys turning ideas into clean, functional web apps — and fin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 </p>
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true"
+    alt="Shobhit's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
