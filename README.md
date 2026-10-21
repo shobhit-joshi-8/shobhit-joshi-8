@@ -127,13 +127,6 @@ A developer who enjoys turning ideas into clean, functional web apps — and fin
 
 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-joshi-8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit-joshi-8&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-joshi-8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
