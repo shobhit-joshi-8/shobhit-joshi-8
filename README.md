@@ -135,14 +135,22 @@ A developer who enjoys turning ideas into clean, functional web apps — and fin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 </p>
 
-## 📈 GitHub Activity Graph
+📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true"
-    alt="Shobhit's GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-joshi-8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit-joshi-8&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-joshi-8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="95%" />
 </p>
 
 ---
