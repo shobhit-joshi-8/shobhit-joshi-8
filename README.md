@@ -9,7 +9,7 @@
   <a href="https://github.com/shobhit-joshi-8">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/shobhit-joshi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shobhit-joshi-8&label=Profile%20Views&color=3EC156&style=flat-square" alt="Profile Views" />
@@ -141,13 +141,15 @@ A developer who enjoys turning ideas into clean, functional web apps — and fin
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/shobhit-joshi-8">
+  <a href="https://github.com/shobhit-joshi-8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+
+  <a href="https://www.linkedin.com/in/shobhit-joshi/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_GMAIL@gmail.com">
+
+  <a href="mailto:joshishobhit.works@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
