@@ -2,61 +2,29 @@
 <h1 align="center">Hey, I'm Shobhit Joshi 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EC156&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+REST+APIs;AWS+Certified+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3EC156&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+REST+APIs;AWS+Certified" alt="Typing SVG" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/shobhit-joshi-8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shobhit-joshi-8&label=Profile%20Views&color=3EC156&style=flat-square" />
+  <!-- Profile views hidden for now
+  <img src="https://komarev.com/ghpvc/?username=shobhit-joshi-8&label=Profile%20Views&color=3EC156&style=flat-square" alt="Profile Views" />
+  -->
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const shobhit = {
-  role: "Full Stack Developer",
-  stack: [
-    "JavaScript",
-    "TypeScript",
-    "React.js",
-    "Next.js",
-    "Node.js",
-    "Express.js"
-  ],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
-  cloud: ["AWS", "Docker", "CI/CD"],
-  certifications: [
-    "AWS Solutions Architect - Associate",
-    "AWS Cloud Practitioner",
-    "Claude Certified Developer - Foundations"
-  ],
-  currentlyLearning: [
-    "Data Structures & Algorithms",
-    "System Design",
-    "Cloud & DevOps"
-  ],
-  interests: [
-    "Full Stack Development",
-    "Performance Optimization",
-    "Building Useful Products"
-  ]
-};
-```
+Full Stack Developer building responsive web applications with React.js, Next.js, TypeScript, Node.js, and Express.js. AWS Certified, passionate about clean code, performance optimization, and building useful products.
 
-- 💻 Building full-stack web applications using modern JavaScript technologies.
-- ⚛️ Developing responsive UIs with React.js, Next.js, and TypeScript.
-- 🚀 Building REST APIs and backend services using Node.js and Express.js.
-- ☁️ AWS Certified Solutions Architect – Associate and Cloud Practitioner.
-- 🔐 Interested in authentication, API security, and performance optimization.
-- 🧠 Practicing Data Structures & Algorithms and exploring system design.
-- 🛠️ Learning Docker, CI/CD, and modern cloud deployment workflows.
+- 💻 Building full-stack applications
+- ☁️ AWS Certified Solutions Architect – Associate
 
 ---
 
@@ -68,7 +36,6 @@ const shobhit = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
@@ -95,7 +62,7 @@ const shobhit = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Cloud & Tools**
+**Tools & Platforms**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -105,62 +72,56 @@ const shobhit = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**Concepts**
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-3EC156?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-563D7C?style=for-the-badge&logo=css3&logoColor=white)
+![Microfrontends](https://img.shields.io/badge/Microfrontends-0052CC?style=for-the-badge&logo=webpack&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛍️ SnapSell — Marketplace Application
 
-A full-stack marketplace connecting buyers and sellers with dedicated user and admin workflows.
-
-- Developed reusable React components and integrated frontend interfaces with REST APIs.
-- Implemented JWT authentication and role-based access control.
-- Built product listings, search filters, pagination, and wishlist functionality.
+- Built a marketplace using React.js, Redux Toolkit, Node.js, Express.js, and MongoDB.
+- Implemented JWT authentication, role-based access control, product listings, and filters.
 - Integrated Cloudinary for product image management.
 
-**Tech:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB · Material UI
+**Tech:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB
 
-[Explore My GitHub Repositories](https://github.com/shobhit-joshi-8?tab=repositories)
+[GitHub Repositories](https://github.com/shobhit-joshi-8?tab=repositories)
 
 ### 🍔 FoodHub — Food Ordering Application
 
-A food ordering platform supporting customers, administrators, and restaurant owners.
-
-- Developed REST APIs for authentication, restaurants, and ordering workflows.
-- Implemented role-based access control, input validation, and pagination.
-- Built restaurant management and order-related features.
+- Developed REST APIs for users, restaurants, and ordering workflows.
+- Implemented authentication, role-based access control, validation, and pagination.
 
 **Tech:** Node.js · Express.js · MongoDB · JWT · REST APIs
 
-[Explore My GitHub Repositories](https://github.com/shobhit-joshi-8?tab=repositories)
+[GitHub Repositories](https://github.com/shobhit-joshi-8?tab=repositories)
 
 ---
 
 ## 🏆 Certifications
 
-- ☁️ AWS Certified Solutions Architect – Associate
-- ☁️ AWS Certified Cloud Practitioner
-- 🤖 Claude Certified Developer – Foundations
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Claude Certified Developer – Foundations
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-joshi-8&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit-joshi-8&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit-joshi-8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-joshi-8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
+<!-- Activity graph hidden for now
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit-joshi-8&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%" />
 </p>
+-->
 
 ---
 
@@ -168,13 +129,13 @@ A food ordering platform supporting customers, administrators, and restaurant ow
 
 <p align="left">
   <a href="https://github.com/shobhit-joshi-8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_GMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
